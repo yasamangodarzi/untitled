@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         int fia=50;
-        public
+        public void in
 
 	// write your code here
     }
